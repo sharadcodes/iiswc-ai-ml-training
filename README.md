@@ -6,6 +6,8 @@
 
 ## ANN Code with explanation
 
+>Click on the copy icon after hovering mouse over the code on top right corner of the code sections below and paste them in collab notebooks
+
 ```python
 # Import necessary libraries
 import pandas as pd  # Import the pandas library for data manipulation
