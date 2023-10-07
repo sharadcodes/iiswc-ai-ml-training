@@ -1,5 +1,9 @@
 # iiswc-ai-ml-training
 
+# Downloads
+
+## [Click here to download zip file](https://github.com/sharadcodes/iiswc-ai-ml-training/archive/refs/heads/main.zip)
+
 ## ANN Code with explanation
 
 ```python
